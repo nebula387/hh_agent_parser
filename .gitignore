@@ -1,0 +1,7 @@
+config.py
+hh_cookies.json
+job_agent.db
+__pycache__/
+*.pyc
+.venv/
+*.egg-info/
